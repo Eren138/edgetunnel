@@ -6,4 +6,3 @@ name = "alimamadvpn" # todo
 main = "src/worker-vless.js"
 
 [vars]
-  UUID = "eba2c1f4-281c-4a1b-983d-d05fd4269992"
